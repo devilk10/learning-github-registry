@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning-github-registry.iml" filepath="$PROJECT_DIR$/.idea/modules/learning-github-registry.iml" group="learning-github-registry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning-github-registry_main.iml" filepath="$PROJECT_DIR$/.idea/modules/learning-github-registry_main.iml" group="learning-github-registry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/learning-github-registry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/learning-github-registry_test.iml" group="learning-github-registry" />
+    </modules>
+  </component>
+</project>
